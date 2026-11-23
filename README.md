@@ -1,6 +1,14 @@
 <!--no-pdf-->
 # CMSC 124 Problem Set 4 Starter
 
+| Name | GitHub Username |
+| :--- | :--- |
+| Trisha Mae A. Hechenagocia | rite-rash |
+| Dan Gabriel P. Guevara | d4landan |
+
+
+
+
 This repository holds the Prolog prediction corpus and the rule stubs for
 Problem Set 4. The assignment manual defines the work and the submission rules.
 
